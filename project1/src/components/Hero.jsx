@@ -5,9 +5,9 @@ import Image3 from "../assets/Image3.jpg";
 function Hero(){
     return(
         <div className="hero">
-            <img src={Image1} alt="" width="500px" />
-            <img src={Image2} alt="" width="500px"/>
-            <img src={Image3} alt="" width="500px"/>
+            <img src={Image1} alt="" width="300px" />
+            <img src={Image2} alt="" width="300px"/>
+            <img src={Image3} alt="" width="300px"/>
         </div>
     )
 }
